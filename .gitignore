@@ -23,5 +23,9 @@
 *.tlog
 *.lastbuildstate
 
+## Ignore build outputs
+Debug/
+x64/
+
 # Ignore Visual Studio project filters
 *.vcxproj.filters
