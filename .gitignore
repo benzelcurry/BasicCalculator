@@ -1,0 +1,24 @@
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.pch
+*.log
+
+# User-specific settings
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.cache
+*.ncb
+*.tlog
+*.lastbuildstate
