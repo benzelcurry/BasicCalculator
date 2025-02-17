@@ -1,4 +1,4 @@
-#include "math.h";
+#include "math.h"
 
 // Houses basic calculator functions
 
