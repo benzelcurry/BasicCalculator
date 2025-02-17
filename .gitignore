@@ -22,3 +22,6 @@
 *.ncb
 *.tlog
 *.lastbuildstate
+
+# Ignore Visual Studio project filters
+*.vcxproj.filters
